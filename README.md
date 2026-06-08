@@ -8,7 +8,7 @@ A simple web application that turns a bulb ON and OFF using user interaction.
 
 * Toggle bulb image (ON/OFF)
 * Interactive button control
-
+         
 ## 🛠️ Tech Used
 
 * HTML
