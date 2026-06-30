@@ -4,7 +4,7 @@
 
 A simple web application that turns a bulb ON and OFF using user interaction.
 
-## 🚀 Features
+## 🚀 Features    
 
 * Toggle bulb image (ON/OFF)
 * Interactive button control
